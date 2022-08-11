@@ -4,7 +4,7 @@
 # please enter the complete directory path into the ProfileDownloadDirectory
 # variable below.
 
-ProfileDownloadDirectory="/Users/bneidhardt/Desktop/Profiles"
+ProfileDownloadDirectory="/Users/bneidhardt/Desktop/JamfProfiles"
 
 # If the ProfileDownloadDirectory isn't specified above, a directory will be
 # created and the complete directory path displayed by the script.
