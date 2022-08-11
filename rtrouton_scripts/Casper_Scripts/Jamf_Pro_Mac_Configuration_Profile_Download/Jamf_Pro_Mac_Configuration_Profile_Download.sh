@@ -4,7 +4,7 @@
 # please enter the complete directory path into the ProfileDownloadDirectory
 # variable below.
 
-ProfileDownloadDirectory=""
+ProfileDownloadDirectory="/Users/bneidhardt/Desktop/Profiles"
 
 # If the ProfileDownloadDirectory isn't specified above, a directory will be
 # created and the complete directory path displayed by the script.
@@ -118,13 +118,13 @@ fi
 # The Jamf Pro URL
 
 # Set the Jamf Pro URL here if you want it hardcoded.
-jamfpro_url=""	    
+jamfpro_url="https://tracelink.jamfcloud.com"	    
 
 # Set the username here if you want it hardcoded.
-jamfpro_user=""
+jamfpro_user="tlsabneidhardt"
 
 # Set the password here if you want it hardcoded.
-jamfpro_password=""	
+jamfpro_password="L0stinfaith2022!"	
 
 # Read the appropriate values from ~/Library/Preferences/com.github.jamfpro-info.plist
 # if the file is available. To create the file, run the following commands:
